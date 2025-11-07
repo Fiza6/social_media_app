@@ -1,0 +1,17 @@
+# Core GUI Library
+tkinter
+
+# Database (SQLite is built-in, but we use sqlite3 for clarity)
+sqlite3
+
+# Image Handling (optional for profile pictures, logos, etc.)
+Pillow
+
+# Password Hashing / Encryption
+bcrypt
+
+# Utility libraries
+requests
+
+# Optional - if using Pandas for admin reporting or CSV exports
+pandas
